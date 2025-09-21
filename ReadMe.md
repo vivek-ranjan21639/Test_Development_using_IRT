@@ -1,6 +1,6 @@
 # Test Assessment Development using Item Response Theory (ITR)
-**Project Owner:** Vivek Ranjan
-**Email Id:** vivekranjan21639@gmail.com
+**Project Owner:** Vivek Ranjan  
+**Email Id:** vivekranjan21639@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/vivek-ranjan-jnu/
 
 
