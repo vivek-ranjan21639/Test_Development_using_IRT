@@ -43,7 +43,6 @@ Below are 40 dichotomous math items. Treat responses as 1 = correct, 0 = incorre
 39. Q39: If a\:b = 2:3 and a=4, what is b?
 40. Q40: What is the median of {2, 3, 7, 9, 10}?
 
-> Note: Items span easy → hard. For MCQ format, attach four options per item and a correct key; here we keep dichotomous for simplicity.
 
 ---
 
